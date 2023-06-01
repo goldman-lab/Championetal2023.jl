@@ -5,18 +5,14 @@
 ## The best way to use this is to install it as a package directly from Julia.
 ### from the Julia REPL:
 
-    ```julia
-
+   
     ] add https://github.com/blankow/Championetal2023.jl.git
 
-    ```
-
-### If you plan to make extensions or play with the code a lot, then:
-    ```julia
-
+ 
+### If you plan to make extensions or develop from it, then:
+ 
     ] dev https://github.com/blankow/Championetal2023.jl.git
 
-    ```
 
 ### The best way to get going here is to use the notebooks included in the package. I've tied up all of the code you'll need to run the simulations in each main-paper figure into individual notebooks. 
 ### Bear in mind that most figures in the paper were plotted using DataGraph, so expect minor differences in interpolation, smoothing, etc. 
