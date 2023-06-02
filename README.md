@@ -16,7 +16,7 @@
 
 
 
-### The best way to get going here is to use the notebooks included in the package. I've tied up all of the code you'll need to run the simulations in each main-paper figure into individual notebooks. The first time you use the notebooks, you may be promted to add some packages, which you should go ahead and do.
+### The best way to get going here is to use the notebooks included in the package. I've tied up all of the code you'll need to run the simulations in each paper figure into individual notebooks. The first time you use the notebooks, you may be promted to add some packages, which you should go ahead and do.
 
 ### Bear in mind that most figures in the paper were plotted using DataGraph, so expect minor differences in interpolation, smoothing, etc. 
 ### The code has been re-written here for easier readability and extension, at the expense of some speed. I've plotted the simulation durations for most of the runs that will take some time.
