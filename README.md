@@ -6,12 +6,12 @@
 ### from the Julia REPL:
 
    
-    ] add https://github.com/blankow/Championetal2023.jl.git
+    ] add https://github.com/goldman-lab/Championetal2023.jl.git
 
  
 ### If you plan to make extensions or develop from it, then:
  
-    ] dev https://github.com/blankow/Championetal2023.jl.git
+    ] dev https://github.com/goldman-lab/Championetal2023.jl.git
 
 
 
